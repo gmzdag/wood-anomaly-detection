@@ -23,10 +23,10 @@ drive.mount('/content/drive', force_remount=True)
 
 """### 1.2 DRAEM Deposunun Klonlanması"""
 
-!git clone https://github.com/VitjanZ/DRAEM.git
+!git clone https://github.com/gmzdag/wood-anomaly-detection.git
 
 # Commented out IPython magic to ensure Python compatibility.
-# %cd DRAEM/
+# %cd cd wood-anomaly-detection/models/DRAEM/src
 
 """### 1.3 Gerekli Kütüphanelerin Kurulumu"""
 
